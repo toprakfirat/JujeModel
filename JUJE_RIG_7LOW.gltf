@@ -3563,7 +3563,7 @@
         {
             "mimeType" : "image/jpeg",
             "name" : "human_male_albedo",
-            "uri" : "human_male_albedo.jpg"
+            "uri" : "https://github.com/toprakfirat/JujeModel/blob/main/human_male_albedo.jpg?raw=true"
         }
     ],
     "skins" : [
@@ -13869,10 +13869,4 @@
             "minFilter" : 9987
         }
     ],
-    "buffers" : [
-        {
-            "byteLength" : 53213212,
-            "uri" : "JUJE_RIG_7LOW.bin"
-        }
-    ]
 }
